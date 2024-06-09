@@ -13,9 +13,8 @@
 ## Skills
 - Web Development
 - Artificial Intelligence
-- Game Development
-- Programming Languages: Python, JavaScript, HTML, CSS
-- Frameworks: React, Node.js, TensorFlow
+- Programming Languages: Python, JavaScript, HTML, CSS, PHP
+- Frameworks: Laravel, React
 
 ## About Me
 <p align="left">I am a lifelong learner and a tech enthusiast who loves to take on new challenges. Whether it's building a complex web application or exploring the latest advancements in AI, I am always excited to dive in and learn. My goal is to use technology to create meaningful solutions that can positively impact people's lives.</p>
