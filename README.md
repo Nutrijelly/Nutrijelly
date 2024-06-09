@@ -16,7 +16,9 @@
 - Programming Languages: Python, JavaScript, HTML, CSS, PHP
 - Frameworks: Laravel, React
 
+<div style="width: 50px; height: 50px;">
 ![Python](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg) ![JavaScript](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg) ![C#](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c%23-colored.svg) ![MySQL](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg){ width=50px }
+</div>
 
 ## Socials
 ![GitHub](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg){ width=50px }
