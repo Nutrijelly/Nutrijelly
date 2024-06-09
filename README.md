@@ -1,6 +1,5 @@
-# Hi, I'm Kevin!
+# 👋Hi, I'm Kevin!
 
-<p align="left">👋 Hi, I'm Kevin!</p>
 
 <p align="left">🌟 Since I was a kid, I've always been fascinated by technology. From wanting to create games to diving into web development and artificial intelligence, my curiosity keeps growing.</p>
 
