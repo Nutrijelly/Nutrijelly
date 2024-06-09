@@ -11,17 +11,13 @@
 <p align="left">🌱 I'm always looking for opportunities to learn, grow, and collaborate with like-minded individuals.</p>
 
 ## Skills
-- Web Development
-- Artificial Intelligence
-- Programming Languages: Python, JavaScript, HTML, CSS, PHP
-- Frameworks: Laravel, React
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" width="50"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" width="50"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" width="50"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" width="50"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="Php" width="50"/>
 
-<div style="width: 50px; height: 50px;">
-![Python](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg) ![JavaScript](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg) ![C#](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c%23-colored.svg) ![MySQL](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg){ width=50px }
-</div>
+## Frameworks
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" alt="Laravel" width="50"/>
 
 ## Socials
-![GitHub](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg){ width=50px }
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" alt="GitHub" width="50"/>
 
 ## About Me
 <p align="left">I am a lifelong learner and a tech enthusiast who loves to take on new challenges. Whether it's building a complex web application or exploring the latest advancements in AI, I am always excited to dive in and learn. My goal is to use technology to create meaningful solutions that can positively impact people's lives.</p>
