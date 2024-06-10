@@ -1,11 +1,11 @@
 # 👋Hi, I'm Kevin!
 
 
-<p align="left">🌟 Since I was a kid, I've always been fascinated by technology. From wanting to create games to diving into web development and artificial intelligence, my curiosity keeps growing.</p>
+<p align="left">🌟 Since I was a kid, I've always been fascinated by technology. From wanting to create games to diving into<br> web development and artificial intelligence, my curiosity keeps growing.</p>
 
-<p align="left">💻 Currently, I thoroughly enjoy exploring web development and AI. Writing code and creating something useful is incredibly satisfying to me.</p>
+<p align="left">💻 Currently, I thoroughly enjoy exploring web development and AI.<br> Writing code and creating something useful is incredibly satisfying to me.</p>
 
-<p align="left">🚀 I'm passionate about contributing to the future of technology. I believe that technology has the power to change the world, and I want to be part of that change.</p>
+<p align="left">🚀 I'm passionate about contributing to the future of technology.<br> I believe that technology has the power to change the world, and I want to be part of that change.</p>
 
 <p align="left">🌱 I'm always looking for opportunities to learn, grow, and collaborate with like-minded individuals.</p>
 
