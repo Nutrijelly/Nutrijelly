@@ -1,6 +1,6 @@
 # 👋Hi, I'm Kevin!
 
-<h3>Lone Wolf Programmer 🌙</h3>
+
 
 <p align="left">🌟 Since I was a kid, I've always been fascinated by technology. From wanting to create games to diving into<br> web development and artificial intelligence, my curiosity keeps growing.</p>
 
