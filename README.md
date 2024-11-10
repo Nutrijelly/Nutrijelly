@@ -3,7 +3,6 @@
 <ul>
   
   <h3> Front - End </h3>
-  <hr>
   <p> HTML and Pure CSS 😊</p>
   <ul>
     <li>Responsive Website</li>
@@ -12,7 +11,7 @@
 <br>
   
   <h3> Back - End </h3>
-  <hr>
+  
   <p> Laravel </p>
   <ul>
     <li>Crud operations</li>
