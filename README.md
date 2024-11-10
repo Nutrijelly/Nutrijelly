@@ -1,30 +1,46 @@
 # 👋Hi, I'm Kevin!
 
 
+<section>
+  <ul>
+    
+  <li>  
+    <p align="left">🌟 Since I was a kid, I've always been fascinated by technology. From wanting to create games to diving into<br> web development and artificial intelligence, my curiosity keeps growing.</p>
+  </li>
 
-<p align="left">🌟 Since I was a kid, I've always been fascinated by technology. From wanting to create games to diving into<br> web development and artificial intelligence, my curiosity keeps growing.</p>
+  <li>
+    <p align="left">💻 Currently, I thoroughly enjoy exploring web development and AI.<br> Writing code and creating something useful is incredibly satisfying to me.</p>
+  </li>
 
-<p align="left">💻 Currently, I thoroughly enjoy exploring web development and AI.<br> Writing code and creating something useful is incredibly satisfying to me.</p>
+  <li>
+    <p align="left">🚀 I'm passionate about contributing to the future of technology.<br> I believe that technology has the power to change the world, and I want to be part of that change.</p>
+  </li>
 
-<p align="left">🚀 I'm passionate about contributing to the future of technology.<br> I believe that technology has the power to change the world, and I want to be part of that change.</p>
+  <li>
+    <p align="left">🌱 I'm always looking for opportunities to learn, grow, and collaborate with like-minded individuals.</p>
+  </li>
+    
+  </ul>
+</section>
 
-<p align="left">🌱 I'm always looking for opportunities to learn, grow, and collaborate with like-minded individuals.</p>
+<h2>Languages and Tools: </h2>  
+<section>
+       
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" width="30"/> 
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" width="30"/> 
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" width="30"/> 
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" width="30"/> 
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" width="30"/> 
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" width="30"/> 
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="Php" width="30"/>
+  
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" alt="Laravel" width="30"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" width="30"/> 
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="Vs Code" width="30"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" width="30"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" width="30"/><img src="https://img.icons8.com/color/50/000000/console.png" alt="Batch File"     width="30"/>
 
-## Languages and Tools: 
-<section style="display: flex; margin: 10px;"> 
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" width="30"/> 
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" width="30"/> 
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" width="30"/> 
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" width="30"/> 
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" width="30"/> 
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" width="30"/> 
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="Php" width="30"/>
 
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" alt="Laravel" width="30"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" width="30"/> 
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="Vs Code" width="30"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" width="30"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" width="30"/><img src="https://img.icons8.com/color/50/000000/console.png" alt="Batch File" width="30"/>
 </section>
 
 
