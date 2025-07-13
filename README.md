@@ -17,7 +17,7 @@
     <li>Crud operations</li>
     <li>Authentication</li>
     <li>Authorization</li>
-    <li>Dynamic Website (content that admin can change)</li>
+    <li>Dynamic Website</li>
   </ul>
 
 </ul>
